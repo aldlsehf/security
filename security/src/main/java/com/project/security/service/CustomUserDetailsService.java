@@ -1,5 +1,6 @@
 package com.project.security.service;
 
+import com.project.security.dto.CustomUserDetails;
 import com.project.security.entity.User;
 import com.project.security.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
